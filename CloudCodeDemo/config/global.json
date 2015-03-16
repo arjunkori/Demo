@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "demo1"
+        }, 
+        "demo1": {
+            "applicationId": "JpVGtbeTZBzhUq36S6PsnnuVYKkJOj8elQ8OKNjq", 
+            "masterKey": "wDFhdqyIWL0y8l4ZgobrUMzzmEg78yU67BlnAW8l"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
